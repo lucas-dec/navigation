@@ -1,6 +1,6 @@
 # Navigation interaction
 
-Tab bar interaction is another project of my series - Fun with UX / UI.
+Tab bar interaction is another project of my series - Fun with UX / UI.  
 Project was created in JS and **_GSAP - GreenSock_** library
 
 ## Live Preview
